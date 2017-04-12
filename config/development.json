@@ -1,0 +1,8 @@
+{
+    "port": 8001,
+    "db": {
+        "host": "ds145790.mlab.com:45790/master",
+        "user": "mongo_user",
+        "password": "123456"
+    }
+}
